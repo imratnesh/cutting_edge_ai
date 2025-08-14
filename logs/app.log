@@ -1,0 +1,90 @@
+2025-08-14 19:18:07,002 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:07,002 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:07,002 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:07,002 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:07,002 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:07,004 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:18:07,004 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:18:07,004 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:18:07,004 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:18:07,004 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:18:07,011 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:18:07,011 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:18:07,011 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:18:07,011 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:18:07,011 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:18:09,457 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:09,457 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:09,457 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:09,457 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:18:09,457 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:22,144 - app.utils - INFO - Received upload request for file: test.pdf
+2025-08-14 19:24:22,144 - app.utils - INFO - Received upload request for file: test.pdf
+2025-08-14 19:24:22,144 - app.utils - INFO - Received upload request for file: test.pdf
+2025-08-14 19:24:22,144 - app.utils - INFO - Received upload request for file: test.pdf
+2025-08-14 19:24:22,144 - app.utils - INFO - Received upload request for file: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - Saving uploaded file: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - Saving uploaded file: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - Saving uploaded file: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - Saving uploaded file: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - Saving uploaded file: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - File saved to: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - File saved to: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - File saved to: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - File saved to: test.pdf
+2025-08-14 19:24:22,145 - app.utils - INFO - File saved to: test.pdf
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file content...
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file content...
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file content...
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file content...
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file content...
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file with content type: application/pdf
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file with content type: application/pdf
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file with content type: application/pdf
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file with content type: application/pdf
+2025-08-14 19:24:22,146 - app.utils - INFO - Processing file with content type: application/pdf
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance...
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance...
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance...
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance...
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance...
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:22,148 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:27,750 - app.utils - INFO - Compliance check complete.
+2025-08-14 19:24:27,750 - app.utils - INFO - Compliance check complete.
+2025-08-14 19:24:27,750 - app.utils - INFO - Compliance check complete.
+2025-08-14 19:24:27,750 - app.utils - INFO - Compliance check complete.
+2025-08-14 19:24:27,750 - app.utils - INFO - Compliance check complete.
+2025-08-14 19:24:27,751 - app.utils - INFO - Compliance report saved to: uploads/compliance_report_20250814_192427.csv
+2025-08-14 19:24:27,751 - app.utils - INFO - Compliance report saved to: uploads/compliance_report_20250814_192427.csv
+2025-08-14 19:24:27,751 - app.utils - INFO - Compliance report saved to: uploads/compliance_report_20250814_192427.csv
+2025-08-14 19:24:27,751 - app.utils - INFO - Compliance report saved to: uploads/compliance_report_20250814_192427.csv
+2025-08-14 19:24:27,751 - app.utils - INFO - Compliance report saved to: uploads/compliance_report_20250814_192427.csv
+2025-08-14 19:24:27,751 - app.utils - INFO - Received modify request for file: test.pdf
+2025-08-14 19:24:27,751 - app.utils - INFO - Received modify request for file: test.pdf
+2025-08-14 19:24:27,751 - app.utils - INFO - Received modify request for file: test.pdf
+2025-08-14 19:24:27,751 - app.utils - INFO - Received modify request for file: test.pdf
+2025-08-14 19:24:27,751 - app.utils - INFO - Received modify request for file: test.pdf
+2025-08-14 19:24:27,751 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:27,751 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:27,751 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:27,751 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:27,751 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:27,753 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:24:27,753 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:24:27,753 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:24:27,753 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:24:27,753 - app.utils - INFO - Modified PDF saved to: uploads/modified_test.pdf
+2025-08-14 19:24:27,759 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:27,759 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:27,759 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:27,759 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:27,759 - app.utils - INFO - Checking compliance of the text.
+2025-08-14 19:24:30,182 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:30,182 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:30,182 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:30,182 - app.utils - INFO - Modifying the document to be compliant based on the report.
+2025-08-14 19:24:30,182 - app.utils - INFO - Modifying the document to be compliant based on the report.

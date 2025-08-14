@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+reportlab
+python-multipart
+pypdf
+pytest
+pytest-env
+python-docx

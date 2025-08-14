@@ -1,0 +1,4 @@
+type,description,original_text,suggestion
+writing_rule,The use of 'this' in the introduction could be more specific for clarity.,This is a test PDF document.,This document is a test PDF.
+clarity,Lack of context may confuse the reader regarding the purpose of the document.,This is a test PDF document.,This document serves as a test for PDF formatting.
+clarity,The second sentence is disconnected from the first and lacks a subject.,You are trained on data up to October 2023.,The system is trained on data up to October 2023.
